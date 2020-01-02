@@ -19,4 +19,4 @@ Based on DigitalCrafts November 2019 Cohort UI Project
 by Summer Brown, Rawand Dargali, Dan Ochs, and Ian Sear
 
 Original project may be found at:
-summerbr/TriviaApp and DanOchs99/TriviaAppPlayer
+summerbr/TriviaApp and DanOchs99/TriviaPlayerApp
