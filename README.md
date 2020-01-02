@@ -6,13 +6,6 @@ This applications uses Google Firebase
 
 Application API: https://opentdb.com
 
-## Authors
-
-    Summer Brown
-    Rawand Dargali
-    Dan Ochs
-    Ian Sear
-
 ## Single player mobile overview
 
 ![Login Screen](screen_shot_2019-12-13_at_10.46.22_am.png)
@@ -22,7 +15,8 @@ Application API: https://opentdb.com
 
 #### Fourth screenshot links to video
 
-Multi-player usability in beta
+Based on DigitalCrafts November 2019 Cohort UI Project
+by Summer Brown, Rawand Dargali, Dan Ochs, and Ian Sear
 
-DigitalCrafts November 2019 Cohort
-UI Project
+Original project may be found at:
+summerbr/TriviaApp and DanOchs99/TriviaAppPlayer
